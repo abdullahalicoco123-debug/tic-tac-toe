@@ -14,6 +14,7 @@ let gameStarted = false;
 let moveCount = 0;
 
 
+
 startBtn.addEventListener("click", () => {
     player1 = player1Input.value || "Player 1";
     player2 = player2Input.value || "Player 2";
